@@ -5,4 +5,4 @@ Data was scraped from basketball-reference.com and is for the 2020 NBA season.
 Project made to practice using BeautifulSoup, Pandas, MPL, and Regression.
 
 Contact info:
-kregan4196@gmail.com
+Kevin Regan kregan4196@gmail.com
